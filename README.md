@@ -35,3 +35,4 @@ The Laravel + Livewire starter kit is open-sourced software licensed under the M
 # basic-project
 # basic-project
 # basic-project
+# basic-project
